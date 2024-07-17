@@ -63,4 +63,10 @@ If you are looking for a dedicated Full Stack Web Developer who can bring your i
 
 ---
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Danijel-De-Paris&show_icons=true&locale=en&layout=compact" alt="Danijel-De-Paris" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Danijel-De-Paris&show_icons=true&locale=en" alt="Danijel-De-Paris" /></p>
+
+---
+
 ⭐️ From [Danijel De Paris](https://github.com/Danijel-De-Paris)
